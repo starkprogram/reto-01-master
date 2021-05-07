@@ -75,4 +75,8 @@ Tipos de Aprendizaje:
 
 ![Cloud Computing](img/c9.jpg)
 
-* 
+* Las *aplicaciones modernas* se basan cada vez en el uso de contenedores, que son microservicios empaquetados con sus dependencias y configuraciones. **Kubernetes** es un software de código abierto para implementar y administrar esos contenedores a gran escala, y también es la palabra griega para timonel de un buque o piloto. Cree, entregue y escale aplicaciones en contenedores con más rapidez usando Kubernetes, que a veces se denomina “k8s”.
+
+***
+
+
