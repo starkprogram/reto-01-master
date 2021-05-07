@@ -1,6 +1,23 @@
 # Reto Master de la Semana 1
 
- En este repositorio se plantea diferentes conceptos aprendidos durante la **primera semana**
+Conceptos aprendidos durante la **primera semana**
+Autor: Jesús Ramseths Echeverría Rivera
+
+### Índice
+
+<Ul>
+<li style="color: blue;">Cloud Computing</li>
+<li style="color: blue;">Modelos de Servicio</li>
+<li style="color: blue;">Azure</li>
+<li style="color: blue;">Inteligencia Artificial</li>
+<li style="color: blue;">DevOps</li>
+<li style="color: blue;">IoT</li>
+<li style="color: blue;">Machine Learning</li>
+<li style="color: blue;">Big Data</li>
+<li style="color: blue;">Kubernetes</li>
+<li style="color: blue;">API</li>
+</Ul>
+
 
 ![Cloud Computing](img/c1.jpg)
 
