@@ -11,5 +11,15 @@ Ejemplos:
 * Huawei Cloud
 * AWS
 ***
-![Cloud Computing](img/c1.jpg)
+![Cloud Computing](img/c2.jpg)
 
+* Estos modelos definen los diferentes niveles de responsabilidad compartida de un proveedor de nube y un cliente en la nube. Existen tres diferentes modelos:
+
+#### IaaS (Infraestructura como servicio)
+* ***IaaS*** se reduce y escala verticalmente en función de la demanda, lo que le permite pagar solo por lo que usa. 
+
+#### PaaS (Plataforma como servicio)
+* Al igual que IaaS, ***PaaS*** incluye infraestructura (servidores, almacenamiento y redes), pero también incluye middleware, herramientas de desarrollo, servicios de inteligencia empresarial (BI), sistemas de administración de bases de datos, etc. 
+
+#### SaaS (Software como servicio)
+* ***SaaS*** ofrece una solución de software integral que se adquiere de un proveedor de servicios en la nube mediante un modelo de pago por uso. Usted alquila el uso de una aplicación para su organización y los usuarios se conectan a ella a través de Internet, normalmente con un explorador web. 
