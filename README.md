@@ -1,7 +1,7 @@
 # Reto Master de la Semana 1
 
 Conceptos aprendidos durante la **primera semana**
-Autor: Jesús Ramseths Echeverría Rivera
+
 
 ### Índice
 
