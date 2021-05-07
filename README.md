@@ -73,4 +73,6 @@ Tipos de Aprendizaje:
 
 ***
 
+![Cloud Computing](img/c9.jpg)
 
+* 
