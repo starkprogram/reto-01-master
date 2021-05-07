@@ -52,3 +52,25 @@ Ejemplos:
 ![Cloud Computing](img/c6.jpg)
 
 * La internet de las cosas (IoT, por sus siglas en inglés) es un sistema de dispositivos de computación interrelacionados, máquinas mecánicas y digitales, objetos, animales o personas que tienen identificadores únicos y la capacidad de transferir datos a través de una red, sin requerir de interacciones humano a humano o humano a computadora.
+
+***
+![Cloud Computing](img/c7.jpg)
+
+* El *Machine Learning o Aprendizaje Automático* es una rama dentro del campo de la *Inteligencia Artificial* cuyo objetivo es dotar a los ordenadores de la capacidad de **aprender** sin necesidad de ser programados.
+
+* El término se lleva utilizando desde los 50, pero ha sido en los últimos años cuando ha tomado gran relevancia gracias al aumento de la *capacidad de computación*, así como al gran volumen de datos que las empresas tienen que manejar.
+
+Tipos de Aprendizaje:
+* Aprendizaje Supervisado
+* Aprendizaje No Supervisado
+* Aprendizaje por Refuerzo
+
+***
+![Cloud Computing](img/c8.jpg)
+
+* Son el conjunto de tecnologías que han sido creadas para **recopilar, analizar y gestionar los datos** que generan los usuarios de Internet. Su idea es la de recopilar los datos masivos que son generados en "bruto", y procesarlos para *identificar patrones u otro tipo de comportamientos* que puedan ayudar a sectores concretos.
+* El Big Data no se refiere únicamente a los datos que se generan al navegar por Internet. También son los datos crudos que generan los usuarios de diferentes aplicaciones o servicios. Por lo tanto, cada empresa de servicios puede tener ingentes cantidades de datos generados por los usuarios, y usarán las herramientas de Big Data para poder analizarlos y procesarlos intentando beneficiarse de ellos.
+
+***
+
+
