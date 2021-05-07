@@ -6,16 +6,16 @@ Conceptos aprendidos durante la **primera semana**
 ### Índice
 
 <Ul>
-<li style="color: blue;">Cloud Computing</li>
-<li style="color: blue;">Modelos de Servicio</li>
-<li style="color: blue;">Azure</li>
-<li style="color: blue;">Inteligencia Artificial</li>
-<li style="color: blue;">DevOps</li>
-<li style="color: blue;">IoT</li>
-<li style="color: blue;">Machine Learning</li>
-<li style="color: blue;">Big Data</li>
-<li style="color: blue;">Kubernetes</li>
-<li style="color: blue;">API</li>
+<li>Cloud Computing</li>
+<li>Modelos de Servicio</li>
+<li>Azure</li>
+<li>Inteligencia Artificial</li>
+<li>DevOps</li>
+<li>IoT</li>
+<li>Machine Learning</li>
+<li>Big Data</li>
+<li>Kubernetes</li>
+<li>API</li>
 </Ul>
 
 
