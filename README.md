@@ -27,3 +27,11 @@ Ejemplos:
 ![Cloud Computing](img/c3.jpg)
 
 * Es un conjunto de servicios en la *nube* en expansión constante que *ayudan a la organización a cumplir los desafíos empresariales actuales y futuros*. Azure le ofrece la libertad de **compilar, administrar e implementar** aplicaciones en una red global masiva mediante sus herramientas y plataformas favoritas.
+
+<a href="https://azure.microsoft.com/es-es/overview/what-is-azure/">¿Deseas saber más? Haz clic aquí :)</a>
+***
+![Cloud Computing](img/c4.jpg)
+* Es la capacidad de un sistema informático de imitar funciones cognitivas humanas, como el aprendizaje y la solución de problemas.
+
+* Mediante el uso de las matemáticas y la lógica, un sistema informático simula el razonamiento que siguen las personas para aprender a partir de información nueva y tomar decisiones.
+
